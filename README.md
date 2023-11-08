@@ -6,7 +6,7 @@
 <div id="user-content-toc">
   # Hola👋, soy Guerreño Pablo Agustin bienvenido a mi perfil de Github
    <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Full+stack+web+developer...;Frelancer...;Analiste+de+Sistemas..."/>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Full+stack+web+developer...;Frelancer...;Analiste+de+Sistemas..."/>
  <br>
  <p>- <i>Tecnico Superior en Programacion y Analisis de Sistemas con buenas habilidades para la resolución de problemas. Capaz de desempeñarse bien en un equipo. Apasionado por la codificación y dotado de un conjunto de habilidades diversas y prometedoras, poniendo especial énfasis en escribir código de buena calidad.</i></p>
 
