@@ -6,7 +6,6 @@
 <div id="user-content-toc">
   # Hola👋, soy Guerreño Pablo Agustin bienvenido a mi perfil de Github
    <br>
-   <br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Full+stack+web+developer...;Frelancer...;Analiste+de+Sistemas..."/>
  <br>
  <br>
