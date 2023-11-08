@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div align="center" id="user-content-toc">
   <br>
-  # Hola👋, soy Guerreño Pablo Agustin bienvenido a mi perfil de Github
+  #  <b>Hola👋 </b>, soy  <b>Guerreño Pablo Agustin </b> bienvenido a mi perfil de Github
    <br>
 <img  src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Full+stack+web+developer...;Frelanceer...;Analista+de+Sistemas..."/>
  <br>
