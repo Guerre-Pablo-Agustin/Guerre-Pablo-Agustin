@@ -15,15 +15,6 @@
  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 </div>
 
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
-
 <!--Intro start-->
 - 🔭 Actualmente estoy trabajando en **React vite, Nodejs, PostgreSql**
 
@@ -36,14 +27,6 @@
 
 <!--Intro end-->
 
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
