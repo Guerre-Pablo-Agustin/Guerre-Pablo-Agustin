@@ -18,10 +18,10 @@
 
 <hr> 
 ```
-💻 Soy un desarrollador autodidacta Full Stack
-📚 Tecnico superior en programacion y analisis de sistemas
-📝 Tengo un gran interés en el desarrollo de aplicaciones
-🔭 Trabajando en aplicaciones con React y node js
+💻 Soy un desarrollador autodidacta Full Stack  <br>
+📚 Tecnico superior en programacion y analisis de sistemas <br>
+📝 Tengo un gran interés en el desarrollo de aplicaciones <br>
+🔭 Trabajando en aplicaciones con React y node js  <br>
 ```
 <br>
 <hr> 
