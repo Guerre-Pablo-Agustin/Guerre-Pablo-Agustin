@@ -38,11 +38,7 @@
 
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2>Tecnologías que utilizo👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+## <h2>Tecnologías que utilizo👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
