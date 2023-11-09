@@ -16,13 +16,15 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
+<hr> 
+```
 💻 Soy un desarrollador autodidacta Full Stack
 📚 Tecnico superior en programacion y analisis de sistemas
 📝 Tengo un gran interés en el desarrollo de aplicaciones
 🔭 Trabajando en aplicaciones con React y node js
-
+```
 <br>
-
+<hr> 
   
 
 <!--tech stack icons-->
