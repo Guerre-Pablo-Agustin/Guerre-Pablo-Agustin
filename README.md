@@ -12,33 +12,17 @@
  <p>- <i>Tecnico Superior en Programacion y Analisis de Sistemas con buenas habilidades para la resolución de problemas. Capaz de desempeñarse bien en un equipo. Apasionado por la codificación y dotado de un conjunto de habilidades diversas y prometedoras, poniendo especial énfasis en escribir código de buena calidad.</i></p>
 
 
-## ⚡🙋‍♂️ Sobre mi
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-</div>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
+💻 Soy un desarrollador autodidacta Full Stack
+📚 Tecnico superior en programacion y analisis de sistemas
+📝 Tengo un gran interés en el desarrollo de aplicaciones
+🔭 Trabajando en aplicaciones con React y node js
 
-<!--- snake -->
-<div align="center">
- <p><img align="right" height="30%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-  <br>
 <br>
-</div>
 
-<!--Intro start-->
-- 🔭 Actualmente estoy trabajando con **React vite, Nodejs, PostgreSql**
-
-- 🌱 Actualmente estoy aprendiendo **Desarrollo Web y otros lenguajes de programación.**
-
-- ☁️ Tengo gran interés en el desarrollo de **Apps**. Entonces, estoy aprendiendo **React**
-
-
-- 📫 No dudes en comunicarte conmigo **guerre.pablo.agustin@gmail.com**
-
-<!--Intro end-->
-
-
-<!--h1 without bottom border-->
-<div>
   
 
 <!--tech stack icons-->
