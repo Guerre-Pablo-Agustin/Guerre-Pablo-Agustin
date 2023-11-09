@@ -20,6 +20,8 @@
 <!--- snake -->
 <div align="center">
  <p><img align="right" height="100%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+  <br>
+<br>
 </div>
 
 <!--Intro start-->
@@ -33,13 +35,12 @@
 - 📫 No dudes en comunicarte conmigo **guerre.pablo.agustin@gmail.com**
 
 <!--Intro end-->
-<br>
-<br>
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que utilizo👨🏻‍💻</h2></summary>
+    <summary><h2>Tecnologías que utilizo👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
