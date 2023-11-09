@@ -17,12 +17,12 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 <hr> 
-```
+
+📚 <b> Tecnico superior en programacion y analisis de sistemas </b> <br>
 💻 Soy un desarrollador autodidacta Full Stack  <br>
-📚 Tecnico superior en programacion y analisis de sistemas <br>
 📝 Tengo un gran interés en el desarrollo de aplicaciones <br>
 🔭 Trabajando en aplicaciones con React y node js  <br>
-```
+
 <br>
 <hr> 
   
