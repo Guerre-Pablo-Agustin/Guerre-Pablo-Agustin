@@ -40,9 +40,10 @@
 <!--h1 without bottom border-->
 <div>
   
-## <h2>Tecnologías que utilizo👨🏻‍💻</h2>
+
 <!--tech stack icons-->
 <p align="center">
+  ## <h2>Tecnologías que utilizo👨🏻‍💻</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,github,html,js,materialui,mongodb,mysql,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
   </a>
