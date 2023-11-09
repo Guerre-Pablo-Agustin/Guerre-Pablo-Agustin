@@ -14,7 +14,7 @@
  <p>- <i>Tecnico Superior en Programacion y Analisis de Sistemas con buenas habilidades para la resolución de problemas. Capaz de desempeñarse bien en un equipo. Apasionado por la codificación y dotado de un conjunto de habilidades diversas y prometedoras, poniendo especial énfasis en escribir código de buena calidad.</i></p>
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+## :metal: About me
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
