@@ -38,6 +38,8 @@
 
 
 <!--h1 without bottom border-->
+<div>
+  
 ## <h2>Tecnologías que utilizo👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="center">
@@ -46,6 +48,7 @@
   </a>
 </p>
 
+</div>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
