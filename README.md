@@ -33,7 +33,7 @@
 <p align="center">
   ## <h2>Tecnologías que utilizo👨🏻‍💻</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,github,html,js,materialui,mongodb,mysql,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,github,html,js,materialui,mongodb,mysql,nodejs,postman,py,react,tailwind,vscode&perline=14" />
   </a>
 </p>
 
