@@ -24,7 +24,7 @@
 💻 Soy un desarrollador autodidacta Full Stack  <br>
 📝 Tengo un gran interés en el desarrollo de aplicaciones <br>
 🔭 Trabajando en aplicaciones con React y node js  <br>
-
+📧 mi correo: guerre.pablo.agustin@gmail.com	
 <br>
 <hr> 
   
